@@ -3,6 +3,11 @@
 ![Logotipo do Cat Cafe](https://i.pinimg.com/736x/55/26/85/5526859383693fb2e8e00c5321a0dfaa.jpg)
 
 Um projeto simples em HTML que cria um formulário de contato para o "Cat Cafe". A página inclui um cabeçalho com navegação, um logotipo e o formulário para agendamento de brunch.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajtoriani)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ajtp)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=AA42F7)](mailto:anajuliatoriani@gmail.com)
  
  ## Tecnologias Utilizadas
 *   **HTML5:** Para a estrutura e marcação do conteúdo.
@@ -29,6 +34,11 @@ Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-s
 ## Contato
 Conecte-se comigo no LinkedIn:
 [Ana Julia](https://www.linkedin.com/in/ajtp)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajtp/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajtoriani)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ajtp)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=AA42F7)](mailto:anajuliatoriani@gmail.com)
 
 ## Licença
 Este projeto está sob a licença MIT.
